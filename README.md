@@ -2,6 +2,10 @@
 
 A comprehensive web application for tracking and managing student coding progress on Codeforces with automated data synchronization and analytics.
 
+## Watch Demo
+[![Watch Demo](assets/thumbnail.png)](https://drive.google.com/file/d/1eq_5s50sRURffNsND8PLEVrAhCR3UhEJ/view?usp=sharing)
+
+
 ## 🚀 Features
 
 ### 📊 Student Management
